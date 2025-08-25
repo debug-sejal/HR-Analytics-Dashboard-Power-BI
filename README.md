@@ -33,4 +33,4 @@ This dashboard tracks HR metrics including employee headcount, attrition rate, d
 * Salary gaps identified across functions.
   
 ## 8. Screenshot
-This is How Dashboard looks like: 
+This is How Dashboard looks like: (https://github.com/debug-sejal/HR-Analytics-Dashboard-Power-BI/blob/main/HR%20Dashboard.png)
