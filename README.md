@@ -33,4 +33,5 @@ This dashboard tracks HR metrics including employee headcount, attrition rate, d
 * Salary gaps identified across functions.
   
 ## 8. Screenshot
-This is How Dashboard looks like: HR Dashboard.png
+This is How Dashboard looks like: <img width="972" height="539" alt="HR Dashboard" src="https://github.com/user-attachments/assets/44cfa262-90dc-44ba-b122-5c0a3041994b" />
+
